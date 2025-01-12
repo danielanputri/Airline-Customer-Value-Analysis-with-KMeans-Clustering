@@ -96,7 +96,7 @@ Analisis ini membantu maskapai memahami karakteristik pelanggan untuk meningkatk
 1. Clone repository ini ke computer/directory local Anda menggunakan perintah berikut:
 
    ```shell
-   git clone https://github.com/danielanputri/uas_spk
+   git clone https://github.com/danielanputri/Airline-Customer-Value-Analysis-with-KMeans-Clustering
    ```
 
 2. Pastikan Anda memiliki requirements Python yang sesuai dan seluruh pustaka yang diperlukan.
